@@ -1,4 +1,7 @@
-# APLevelDB
+# APLevelDBSS
+An extension of APLevelDB adding searches, schema support and the ability to expose the core leveldb C++ API for further extension.  It was developed to support the book *Getting Started with LevelDB.*
+
+## Original APLevelDB Readme
 
 A stylish Objective-C wrapper for [LevelDB][].  What's LevelDB?  It describes itself as: "a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values."  LevelDB is made available under the [New BSD License][].
 
